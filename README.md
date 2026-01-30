@@ -32,10 +32,26 @@ Demonstrates two core security best practices:
 
 ### Screenshots
 All images are in the `/screenshots` folder:
+## Screenshots
+
+**IAM Policy (least privilege)**  
+![](screenshots/iam-policy-clean-least-privilege.png)
+
+**Audit Logs enabled**  
+![](screenshots/audit-logs-enabled.png)
+
+**Logs Explorer – overview**  
+![ ](screenshots/expanded-log-create.png)
+
+**Expanded log – Delete**  
+![](screenshots/expanded-log-delete.png)
+
+**Expanded log – Get (download)**  
+![ ](screenshots/expanded-log-list.png)
 
 | Section                          | Screenshot File                                 | What it shows                              |
 |----------------------------------|-------------------------------------------------|--------------------------------------------|
-| IAM configuration                | iam-policy-clean-least-privilege.png            | Only my account + specific Storage roles   |
+| IAM configuration                | iam-policy-clean-least-privilege.png  )          | Only my account + specific Storage roles   |
 | Audit Logs enabled               | audit-logs-enabled.png                          | Data Read & Data Write checked for Storage |
 | Logs Explorer overview           | logs-explorer-results.png                       | 50+ results (list/get/create/delete)       |
 | Expanded log – Create (upload)   | expanded-log-create.png                         | storage.objects.create details             |
