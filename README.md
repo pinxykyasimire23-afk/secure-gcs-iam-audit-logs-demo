@@ -32,25 +32,26 @@ Demonstrates two core security best practices:
 
 ## Screenshots
 
-All images are in the `/screenshots` folder.
-
 **IAM Policy (least privilege)**  
 ![](screenshots/iam-policy-clean-least-privilege.png)
 
 **Audit Logs enabled**  
-![](screenshots/audit-logs-enabled.png)
+![](screenshots/audit-logs- enabled.png)
 
 **Logs Explorer overview**  
 ![](screenshots/logs-explorer-results.png)
 
 **Expanded log – Create (upload)**  
-![](screenshots/expanded-log-create.png)
+![](screenshots/expanded-log-create - Copy.png)
 
 **Expanded log – Delete**  
 ![](screenshots/expanded-log-delete.png)
 
 **Expanded log – Get (download)**  
 ![](screenshots/expanded-log-get.png)
+
+**Expanded log – List**  
+![](screenshots/expanded-log-list.png)
 
 **Expanded log – List**  
 ![](screenshots/expanded-log-list.png)
