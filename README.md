@@ -42,7 +42,7 @@ Demonstrates two core security best practices:
 ![ ](screenshots/logs-explorer-results.png)
 
 **Expanded log–Create (upload)**  
-![ ](screenshots/expanded-log-create.png)
+![ ](screenshots/expanded-log-create - copy.png)
 
 **Expanded log – Delete**  
 ![](screenshots/expanded-log-delete.png)
