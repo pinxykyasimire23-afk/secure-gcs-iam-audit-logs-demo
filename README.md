@@ -31,23 +31,26 @@ Demonstrates two core security best practices:
    - Expanded several to show methodName, principalEmail, resourceName, timestamp
 
 ### Screenshots
-All images are in the `/screenshots` folder:
-## Screenshots
-
 **IAM Policy (least privilege)**  
-![](screenshots/iam-policy-clean-least-privilege.png)
+![](screenshots/iam-policy-clean-least-privilag...png)   <!-- copy full name from folder -->
 
 **Audit Logs enabled**  
-![](screenshots/audit-logs-enabled.png)
+![](screenshots/audit-logs--enabled.png)   <!-- note the double dash -->
 
-**Logs Explorer – overview**  
-![ ](screenshots/expanded-log-create.png)
+**Logs Explorer overview**  
+![](screenshots/logs-explorer--results.png)   <!-- double dash -->
+
+**Expanded log – Create (upload)**  
+![](screenshots/expanded-log-create - Copy.png)   <!-- include space and " - Copy" -->
 
 **Expanded log – Delete**  
 ![](screenshots/expanded-log-delete.png)
 
 **Expanded log – Get (download)**  
-![ ](screenshots/expanded-log-list.png)
+![](screenshots/expanded-log-get.png)
+
+**Expanded log – List**  
+![](screenshots/expanded-log-list.png)
 
 | Section                          | Screenshot File                                 | What it shows                              |
 |----------------------------------|-------------------------------------------------|--------------------------------------------|
