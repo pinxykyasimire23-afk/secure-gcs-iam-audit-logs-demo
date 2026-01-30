@@ -36,13 +36,13 @@ Demonstrates two core security best practices:
 ![ ](screenshots/iam-policy-clean-least-previlage.png)
 
 **Audit Logs Enabled**
-![ ](screenshots/audit-logs- enabled.png)
+![ ](screenshots/audit-logs-enabled.png)
 
 **Logs Explorer Overview**
-![ ](screenshots/logs-explorer -results.png)
+![ ](screenshots/logs-explorer-results.png)
 
 **Expanded log–Create (upload)**  
-![ ](screenshots/expanded-log-create- Copy.png)
+![ ](screenshots/expanded-log-create-Copy.png)
 
 **Expanded log – Delete**  
 ![](screenshots/expanded-log-delete.png)
