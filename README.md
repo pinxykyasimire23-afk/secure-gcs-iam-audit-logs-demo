@@ -32,17 +32,17 @@ Demonstrates two core security best practices:
 
 ## Screenshots
 
-## IAM Policy (Least Privilege)
+**IAM Policy (Least Privilege)**
 ![](screenshots/iam-policy-clean-least-previlege.png)
 
-## Audit Logs Enabled
+**Audit Logs Enabled**
 ![](screenshots/audit-logs-enabled.png)
 
-## Logs Explorer Overview
+**Logs Explorer Overview**
 ![](screenshots/logs-explorer-results.png)
 
 **Expanded log – Create (upload)**  
-![](screenshots/expanded-log-create - Copy.png)
+![](screenshots/expanded-log-create.png)
 
 **Expanded log – Delete**  
 ![](screenshots/expanded-log-delete.png)
@@ -53,8 +53,6 @@ Demonstrates two core security best practices:
 **Expanded log – List**  
 ![](screenshots/expanded-log-list.png)
 
-**Expanded log – List**  
-![](screenshots/expanded-log-list.png)
 | Section                          | Screenshot File                                 | What it shows                              |
 |----------------------------------|-------------------------------------------------|--------------------------------------------|
 | IAM configuration                | iam-policy-clean-least-privilege.png  )          | Only my account + specific Storage roles   |
