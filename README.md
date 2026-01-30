@@ -30,18 +30,21 @@ Demonstrates two core security best practices:
    - Confirmed 50+ entries  
    - Expanded several to show methodName, principalEmail, resourceName, timestamp
 
-### Screenshots
+## Screenshots
+
+All images are in the `/screenshots` folder.
+
 **IAM Policy (least privilege)**  
-![](screenshots/iam-policy-clean-least-privilag.png)  
+![](screenshots/iam-policy-clean-least-privilege.png)
 
 **Audit Logs enabled**  
-![](screenshots/audit-logs-enabled.png)  
+![](screenshots/audit-logs-enabled.png)
 
 **Logs Explorer overview**  
-![](screenshots/logs-explorer-results.png)   
+![](screenshots/logs-explorer-results.png)
 
 **Expanded log – Create (upload)**  
-![](screenshots/expanded-log-create.png) 
+![](screenshots/expanded-log-create.png)
 
 **Expanded log – Delete**  
 ![](screenshots/expanded-log-delete.png)
@@ -51,7 +54,6 @@ Demonstrates two core security best practices:
 
 **Expanded log – List**  
 ![](screenshots/expanded-log-list.png)
-
 | Section                          | Screenshot File                                 | What it shows                              |
 |----------------------------------|-------------------------------------------------|--------------------------------------------|
 | IAM configuration                | iam-policy-clean-least-privilege.png  )          | Only my account + specific Storage roles   |
