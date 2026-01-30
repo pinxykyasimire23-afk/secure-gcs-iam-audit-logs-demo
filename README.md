@@ -32,16 +32,16 @@ Demonstrates two core security best practices:
 
 ### Screenshots
 **IAM Policy (least privilege)**  
-![](screenshots/iam-policy-clean-least-privilag...png)   <!-- copy full name from folder -->
+![](screenshots/iam-policy-clean-least-privilag.png)  
 
 **Audit Logs enabled**  
-![](screenshots/audit-logs--enabled.png)   <!-- note the double dash -->
+![](screenshots/audit-logs-enabled.png)  
 
 **Logs Explorer overview**  
-![](screenshots/logs-explorer--results.png)   <!-- double dash -->
+![](screenshots/logs-explorer-results.png)   
 
 **Expanded log – Create (upload)**  
-![](screenshots/expanded-log-create - Copy.png)   <!-- include space and " - Copy" -->
+![](screenshots/expanded-log-create.png) 
 
 **Expanded log – Delete**  
 ![](screenshots/expanded-log-delete.png)
