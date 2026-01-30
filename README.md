@@ -45,7 +45,7 @@ Demonstrates two core security best practices:
 ![ ](screenshots/expanded-log-create- Copy.png)
 
 **Expanded log – Delete**  
-![](screenshots/expanded-log-create - Copy.png)
+![](screenshots/expanded-log-delete.png)
 
 **Expanded log – Get (download)**  
 ![](screenshots/expanded-log-get.png)
