@@ -39,7 +39,7 @@ Demonstrates two core security best practices:
 ![ ](screenshots/audit-logs- enabled.png)
 
 **Logs Explorer Overview**
-![ ](screenshots/logs-explorer-results.png)
+![ ](screenshots/logs-explorer -results.png)
 
 **Expanded log–Create (upload)**  
 ![ ](screenshots/expanded-log-create- Copy.png)
