@@ -33,7 +33,7 @@ Demonstrates two core security best practices:
 ## Screenshots
 
 **IAM Policy (Least Privilege)**
-![](screenshots/iam-policy-clean-least-previlege.png)
+![](screenshots/iam-policy-clean-least-previlage.png)
 
 **Audit Logs Enabled**
 ![](screenshots/audit-logs-enabled.png)
@@ -41,7 +41,7 @@ Demonstrates two core security best practices:
 **Logs Explorer Overview**
 ![](screenshots/logs-explorer-results.png)
 
-**Expanded log – Create (upload)**  
+**Expanded log–Create (upload)**  
 ![](screenshots/expanded-log-create.png)
 
 **Expanded log – Delete**  
