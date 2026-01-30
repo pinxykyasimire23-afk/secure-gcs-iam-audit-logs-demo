@@ -32,13 +32,13 @@ Demonstrates two core security best practices:
 
 ## Screenshots
 
-**IAM Policy (least privilege)**  
-![](screenshots/iam-policy-clean-least-privilege.png)
+## IAM Policy (Least Privilege)
+![](screenshots/iam-policy-clean-least-previlege.png)
 
-**Audit Logs enabled**  
-![](screenshots/audit-logs- enabled.png)
+## Audit Logs Enabled
+![](screenshots/audit-logs-enabled.png)
 
-**Logs Explorer overview**  
+## Logs Explorer Overview
 ![](screenshots/logs-explorer-results.png)
 
 **Expanded log – Create (upload)**  
